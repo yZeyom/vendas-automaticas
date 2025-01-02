@@ -1,0 +1,23 @@
+{
+    "vendas": true,
+    "pix": false,
+    "pagarsite": false,
+    "tempmax": 10,
+    "acess_token": "APP_USR-4859727121376724-051314-03b7bb5d40c39a1ff5194efff5bc0019-1592742380",
+    "saldo": false,
+    "saldobonus": 0,
+    "saldomin": 0,
+    "semiauto": true,
+    "chavepix": "Não Configurado",
+    "tipochave": "Não Configurado",
+    "qrcode": "Não Configurado",
+    "logs_adm": "1307483352458334248",
+    "logs_public": "1307483290734952590",
+    "roles_client": "1273032275868651522",
+    "category": "1291284770101268504",
+    "notifycart": true,
+    "notifyaprovved": true,
+    "notifystock": true,
+    "terms": "termos da comunidade 2x-legit Community\nRespeito mútuo: Trate todos com cortesia e respeito, independentemente de suas opiniões ou identidade.\n\nSem conteúdo inadequado: Não compartilhe conteúdo explícito, ofensivo ou violento no servidor.\n\nNão spam: Evite enviar mensagens repetitivas ou irrelevantes que possam atrapalhar a conversa.\n\nSem discurso de ódio: Não promova ou apoie discursos de ódio, racismo, sexismo, homofobia, etc.\n\nCanais apropriados: Use os canais corretos para cada tipo de conteúdo, como memes, discussões sérias, etc.\n\nRespeite a privacidade: Não compartilhe informações pessoais de outros membros sem permissão.\n\nSem divulgação não autorizada: Não promova outros servidores ou links sem permissão dos administradores.\n\nResolução pacífica de conflitos: Se houver desentendimentos, resolva-os de forma civilizada e evite brigas.\n\nSem auto-promoção excessiva: Evite usar o servidor apenas para autopromoção constante.\n\nSiga as diretrizes dos administradores: Respeite as instruções e decisões dos administradores do servidor.",
+    "channel_fedback": "1307483317871841341"
+}

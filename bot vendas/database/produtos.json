@@ -1,0 +1,27 @@
+{
+    "1": {
+        "idproduto": "1",
+        "nome": "Não configurado ainda...",
+        "preco": 10,
+        "miniatura": "Não Configurado",
+        "banner": "Não Configurado",
+        "conta": [
+            "1"
+        ],
+        "desc": "Não configurado ainda...",
+        "category": "Não Definida.",
+        "rodape": "Sem Rodapé",
+        "role": "Não Configurado",
+        "cor": "#ff0000",
+        "cupom": true,
+        "mensagem": {
+            "channel": "1291284770533408818",
+            "msgid": "1310345796683567164"
+        },
+        "estatisticas": {
+            "total": 1,
+            "rendeu": 10
+        },
+        "espera": []
+    }
+}

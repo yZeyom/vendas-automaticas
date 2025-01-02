@@ -1,0 +1,21 @@
+{
+    "1": {
+        "title": "Painel teste",
+        "desc": "opa ola",
+        "rodape": "Sem Rodapé",
+        "placeholder": "Selecione um Produto",
+        "corembed": "#ff0000",
+        "banner": "remover",
+        "miniatura": "remover",
+        "mensagem": {
+            "msgid": "1310346396846522450",
+            "channel": "1308259849250803742"
+        },
+        "produtos": [
+            {
+                "id": "1",
+                "emoji": "🛒"
+            }
+        ]
+    }
+}

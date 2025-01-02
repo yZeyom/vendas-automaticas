@@ -1,0 +1,39 @@
+{
+    "cor": "#ff0000",
+    "banner": "Não Configurado",
+    "miniatura": "Não Configurado",
+    "mensagem_compra": {
+        "titulo": "Tteste | Produto",
+        "desc": "```#{desc}```\n🪐** | Nome: #{nome}\n💸 | Preço: __R$#{preco}__\n📦 | Estoque: __#{estoque}__**",
+        "rodape": "Sem Rodapé",
+        "button": {
+            "text": "Comprar",
+            "style": 2,
+            "emoji": "<:carrin_cloud:1221873043958268045>"
+        }
+    },
+    "banks": [],
+    "duvidas": {
+        "status": false,
+        "channel": "Não Configurado",
+        "label": "Dúvidas",
+        "emoji": "🔗"
+    },
+    "automod": {
+        "autorole": [],
+        "mensagem_auto": {
+            "system": true,
+            "mensagem": []
+        },
+        "boasvindas": {
+            "message": null,
+            "tempoaapgar": null,
+            "canais": []
+        },
+        "antifake": {
+            "dias": null,
+            "status": [],
+            "nomes": []
+        }
+    }
+}
